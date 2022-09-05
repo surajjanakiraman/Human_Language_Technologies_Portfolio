@@ -1,0 +1,58 @@
+Suraj Janakiraman
+09-04-2022
+CS 4395.001 Human Language Technologies
+											Overview of Homework 1
+
+1. Description of the program
+A) Description: This program processes text within a csv file using Python. 
+(B) data.csv is the file that the program will process. data.csv is an input file with 5 fields (last name, first name, middle initial, ID, and Office Phone). 
+The program is supposed to modify the invalid fields so that they become valid. Examples of modification of fields include: 
+  (B1) Modify the first character of first and last names to have a capital letter followed by lowercase (i.e. Jake Jason)
+  (B2) Modify the middle initial such that it is a capital letter. If there is no middle initial, make sure to replace the empty middle initial string with 'X'
+  (B3) Modify the ID: An ID is supposed to have 2 letters followed by 4 digits. The program uses regular expressions to check if an ID is valid or not. 
+  (B4) Modify the phone number: A phone number is supposed to be in the following format 123-456-7890. The program should use regular expressions to check and see whether the
+	phone number is valid or not. 
+
+(C) How does the program work?
+(C1) When the user runs Homework1_sxj170022.py, the program process information within the data.csv, and looks for invalid fields. 
+(C2) If an invalid field is found, the console will print a message (i.e. ID invalid: 54454. ID is two letters followed by 4 digits. Please enter a valid ID: ). 
+In the example,the user is asked to enter a valid ID after being told that the ID is invalid. 
+If the invalid field is a phone number, the console prints the following message (i.e. Phone 555-877.4321 is invalid. Enter phone number in form 123-456-7890). 
+The user is asked to enter a phone number in the form 123-456-7890. 
+(C3) All the invalid fields will be flagged by the console until the user enters in the correct information for all Person objects. 
+
+(D) File structure: 
+(D1) Homework1_sxj170022.py: This program is responsible for reading in information from the data.csv file, performing the regular expression operations for the fields in 
+the data.csv file, and outputting the information to a command line terminal.The program uses a dictionary to store all the fields from the data.csv file. 
+(D2) PersonClass.py: This program is responsible for creating a Person object with the following fields as listed in data.csv file 
+(last name, first name, middle initial, ID, and phone number). This program also has a method to display the Person objects. 
+(D3) homework1_config.py: This program is used to store the file names in variables so that the file names do not have to be hardcoded every time they need to be referenced. 
+
+
+2. Explain how to run the program
+(A) You will see a folder called HomeworkAssignment1. Underneath that, you will see the following files, Homework1_sxj170022.py, PersonClass.py,  homework1_config.py, and a data folder
+containing data.csv file. Download these files and put them in a working directory. 
+(B) Once a working directory is in place, Run the following command: 
+	(B1) If you have python3 run the following command: python main.py . [Note that the dot . comes after python main.py, that is the 3rd argument you need to put in to run the file. 
+The full command to be run is python main.py . (note: please include the . when you run the program). A screenshot of output will be uploaded so that you can refer to that to run the file. 
+
+
+3. Describe the strengths/weaknesses of Python in text processing. 
+(S1) Python requires less code as opposed to languages such as Java or C++ to process files. 
+For example, there is no need for Python to provide a .set function to set the value or a .get function to get a value in a Class. As such, there is no need for Python to store a field 
+inside of a .set function as opposed to storing fields in Java and C++. This aspect makes reading Python code that processes text more readable and understandable.
+(S2) Processing a regular expression is as easy as hardcoding the regular expression. 
+That said there are some major weaknesses in processing text in Python: 
+(W1): Python is limited to only a few data structures (lists, dicts, tuples, and sets) as opposed to the data structures in Java and C++ (Hash Map, LinkedList, Array List, Array,
+Queue, Binary Trees, Binary Search Trees, Heaps, Graphs, Stacks, etc.  
+(W2):  Out of all the Python data structures (list, dicts, tuples, sets), it is easiest to process text and store the fields in the text using a list. 
+
+
+4. Write about what you learned in this assignment or what was a review for you. 
+(A) Python treats every variable as an object. As opposed to Java or C++ for example, Python does not require the programmer to provide the data type for the variable (i.e. int x=5). 
+Simply typing in x=5 is good enough for Python.
+(B) I learned that I could hardcode a Python regular expression and that regular expression does the processing for the specific field I am processing. 
+For example, (i.e. re.match('\d{3}-\d{3}-\d{4}', phone) checks to see if the phone number is in the form 123-456-7890. 
+
+
+
