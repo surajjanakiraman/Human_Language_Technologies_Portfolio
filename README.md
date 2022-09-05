@@ -7,7 +7,7 @@ For this assignment, I am attaching a document called
 [An Overview of NLP](https://github.com/surajjanakiraman/Human_Language_Technologies_Portfolio/blob/main/sxj170022PortfolioAssignment0GettingStarted/sxj170022An%20Overview%20of%20NLP.pdf)
 
 
-#Portfolio Assignment 1: Text Processing with Python
+# Portfolio Assignment 1: Text Processing with Python
 Brief Description:
 (A) The purpose of the program is to process a data.csv file using
 Python
