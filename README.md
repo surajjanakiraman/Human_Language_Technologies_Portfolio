@@ -15,7 +15,7 @@ Python
 the following code files: [Homework1_sxj170022.py](https://github.com/surajjanakiraman/Human_Language_Technologies_Portfolio/blob/main/sxj170022PortfolioAssignment1/Homework1_sxj170022.py), [homework1_config.py](https://github.com/surajjanakiraman/Human_Language_Technologies_Portfolio/blob/main/sxj170022PortfolioAssignment1/homework1_config.py), and [PersonClass.py](https://github.com/surajjanakiraman/Human_Language_Technologies_Portfolio/blob/main/sxj170022PortfolioAssignment1/PersonClass.py).
 (C) All of this information in B can be found in the [Homework1 folder](https://github.com/surajjanakiraman/Human_Language_Technologies_Portfolio/tree/main/sxj170022PortfolioAssignment1)
 
-#Portfolio Assignment: Chapter 5 Word Guessing Game
+# Portfolio Assignment: Chapter 5 Word Guessing Game
 Brief Description:
 Description: The purpose of the python project is to create a guessing game from a text file. The Python Program reads in the text file anat19.txt, stores the contents of the file in a list,
  processes each token of the file, lemmatizes the tokens to create unique lemmas, gathers all the nouns,
