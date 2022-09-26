@@ -26,4 +26,3 @@ How to run: Donwload the files on eLearning and/or Github the
 the [Main Program](https://github.com/surajjanakiraman/Human_Language_Technologies_Portfolio/blob/main/sxj170022_PortfolioChapter5_GuessingGame/sxj170022_PortfolioChapter5_GuessingGame.py), as well as the [data folder](https://github.com/surajjanakiraman/Human_Language_Technologies_Portfolio/tree/main/sxj170022_PortfolioChapter5_GuessingGame/data) containing anat19.txt
  make sure to input the following command when running:
  python sxj170022_PortfolioChapter5_GuessingGame.py data/anat19.txt
- This is a sample Python script.
