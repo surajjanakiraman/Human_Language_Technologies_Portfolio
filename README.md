@@ -44,5 +44,3 @@ There are 2 programs for this project:
  D. Computes and outputs your accuracy as the percentage of correctly classified instances in the test set.
 
  [Narrative](https://github.com/surajjanakiraman/Human_Language_Technologies_Portfolio/blob/main/sxj170022_PortfolioAssignment_NGrams/Ngrams.pdf): Also included is a short narrative about Ngrams.
-
- 
