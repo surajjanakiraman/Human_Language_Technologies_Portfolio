@@ -32,3 +32,17 @@ the [Main Program](https://github.com/surajjanakiraman/Human_Language_Technologi
 Description: The purpose of this assignment is to experiment with
 WordNet and SentiWordNet.
 Please refer to the [WordNet python file](https://github.com/surajjanakiraman/Human_Language_Technologies_Portfolio/blob/main/sxj170022_AssignmentWordnet.ipynb) for more details
+
+# Portfolio Assignment: Chapter 8 NGrams
+Description: The project involves creating unigram and bigram dictionaries for the following languages: English, French, and Italian. The purpose of the overall project is to calculate the probabilities for each language and get the overall accuracy of correctly classified instances in the test set with respect to the dictionaries.
+There are 2 programs for this project:
+[Program 1](https://github.com/surajjanakiraman/Human_Language_Technologies_Portfolio/blob/main/sxj170022_PortfolioAssignment_NGrams/program1.py) involves building languages models for the 3 languages (English, French, and Italian) and creating unigram and bigram dictionaries from these language models. The program pickles the dictionaries to save execution time in running the project.
+[Program 2](https://github.com/surajjanakiraman/Human_Language_Technologies_Portfolio/blob/main/sxj170022_PortfolioAssignment_NGrams/program2.py) does the following:
+ A. It reads in the pickled dictionaries.
+ B. Calculates the probability for each language
+ C. Writes the language with the highest probability to a file
+ D. Computes and outputs your accuracy as the percentage of correctly classified instances in the test set.
+
+ [Narrative](https://github.com/surajjanakiraman/Human_Language_Technologies_Portfolio/blob/main/sxj170022_PortfolioAssignment_NGrams/Ngrams.pdf): Also included is a short narrative about Ngrams.
+
+ 
