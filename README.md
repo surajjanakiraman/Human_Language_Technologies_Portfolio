@@ -44,3 +44,10 @@ There are 2 programs for this project:
  D. Computes and outputs your accuracy as the percentage of correctly classified instances in the test set.
 
  [Narrative](https://github.com/surajjanakiraman/Human_Language_Technologies_Portfolio/blob/main/sxj170022_PortfolioAssignment_NGrams/Ngrams.pdf): Also included is a short narrative about Ngrams.
+
+
+# Portfolio Assignment: Web Scraper
+Description: This project gets a list of URLS from a starter url:
+ https://medium.com/. The project scrapes through the list of URLS and outputs a text file called [urls.txt](https://github.com/surajjanakiraman/Human_Language_Technologies_Portfolio/blob/main/sxj170022_PortfolioAssignment_WebScraper/Web_scraper/urls.txt). Next, text is scraped from the urls and each text is put into their own files. Since there were 51 urls in urls.txt, you should see 51 different text [files](https://github.com/surajjanakiraman/Human_Language_Technologies_Portfolio/tree/main/sxj170022_PortfolioAssignment_WebScraper/Web_scraper/files) containing text from each url website.
+Next a [knowledge base](https://github.com/surajjanakiraman/Human_Language_Technologies_Portfolio/blob/main/sxj170022_PortfolioAssignment_WebScraper/Web_scraper/knowledge_base.txt) is created from the texts for all the websites. Note: The knowledge base text file is very large so you may not be able to see it at a first glance on Github.
+A [web crawler report](https://github.com/surajjanakiraman/Human_Language_Technologies_Portfolio/blob/main/sxj170022_PortfolioAssignment_WebScraper/Web_crawler_Report.docx) describes the knowledge base as well as includes the top 10 terms from the knowledge and a sample dialog for the knowledge base
