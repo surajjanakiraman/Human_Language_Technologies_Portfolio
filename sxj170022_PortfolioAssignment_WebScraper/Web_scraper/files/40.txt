@@ -1,0 +1,108 @@
+Le styles
+custom css
+polyfills
+Le HTML5 shim
+[if lt IE 9]>
+<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]
+injection for static
+Medium
+Accessibility guidelines for tabs: https://www.w3.org/TR/wai-aria-practices-1.1/examples/tabs/tabs-1/tabs.html
+x
+Follow @MediumSupport
+or
+view our profile .
+Visit our  support site .
+Get the  Atom Feed  or  RSS Feed .
+this is outside of the .container so that the cover photo can go full width on mobile
+All Systems Operational
+About This Site
+Welcome to Medium's status page. Any interruptions to regular service will be posted here. If you have issues connecting to Medium and do not see an update here, please open a ticket at  http://yourfriends.medium.com .
+Medium Front End
+?
+Operational
+Image Front End
+?
+Operational
+Task Queue
+?
+Operational
+Operational
+Degraded Performance
+Partial Outage
+Major Outage
+Maintenance
+System Metrics
+Month
+Week
+Day
+Medium Front End Uptime
+?
+Fetching
+Image Front End Uptime
+?
+Fetching
+Externally Reported Response Times
+?
+Fetching
+Past Incidents
+Oct   9 ,  2022
+No incidents reported today.
+Oct   8 ,  2022
+No incidents reported.
+Oct   7 ,  2022
+Service Interuption
+postmortem
+incident updates
+Resolved  -
+This incident has been resolved.
+Oct   7 ,  19:16  PDT
+Investigating  -
+Some users are experiencing problems accessing Medium, our team is aware and investigating.
+Oct   7 ,  19:14  PDT
+Oct   6 ,  2022
+No incidents reported.
+Oct   5 ,  2022
+No incidents reported.
+Oct   4 ,  2022
+Service Interuption
+postmortem
+incident updates
+Resolved  -
+This incident has been resolved.
+Oct   4 ,  09:39  PDT
+Investigating  -
+Some users are experiencing problems accessing Medium, our team is aware and investigating.
+Oct   4 ,  09:38  PDT
+Oct   3 ,  2022
+No incidents reported.
+Oct   2 ,  2022
+No incidents reported.
+Oct   1 ,  2022
+No incidents reported.
+Sep  30 ,  2022
+No incidents reported.
+Sep  29 ,  2022
+No incidents reported.
+Sep  28 ,  2022
+No incidents reported.
+Sep  27 ,  2022
+No incidents reported.
+Sep  26 ,  2022
+Service Interuption
+postmortem
+incident updates
+Resolved  -
+This incident has been resolved.
+Sep  26 ,  10:12  PDT
+Investigating  -
+Some users are experiencing problems accessing Medium, our team is aware and investigating.
+Sep  26 ,  10:11  PDT
+Sep  25 ,  2022
+No incidents reported.
+←  Incident History
+Powered by Atlassian Statuspage
+custom metrics stuff
+all of the content_for stuff
+FOR FLASH NOTICES
+FOR ERROR
