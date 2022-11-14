@@ -55,3 +55,6 @@ A [web crawler report](https://github.com/surajjanakiraman/Human_Language_Techno
 
 # Portfolio Assignment: Sentence Parsing
 Description: For this assignment, I created a fairly complex sentence.  I drew by hand a PSG/constituency tree, a Dependency Parse and a SRL parse for the sentence. You can find the [Sentence Parsing Assignment](https://github.com/surajjanakiraman/Human_Language_Technologies_Portfolio/blob/main/sxj170022_Sentence%20Parsing%20Assignment/sxj170022_SentenceParsingAssignment.pdf) on GitHub
+
+# Portfolio Assignment ACL Summary
+Description: For this assignment I worked with a partner, Dmitrii Obideiko on the ACL Paper Summary. We chose the [DeepRapper: Neural Rap Generation](https://github.com/surajjanakiraman/Human_Language_Technologies_Portfolio/blob/main/sxj170022_Portfolio%20ACL%20Paper%20Summary/Portfolio%20ACL%20Paper%20Summary.docx) where we summarize the authors' attempts at creating a DeepRapper. This summary includes the title of the paper, the author list and affiliations, a summary of the current work associated with the paper, a summary of prior works, the contributions the authors made to the paper, the evaluations authors made, the list of citations for each author and a brief conclusion about why the work was important. 
