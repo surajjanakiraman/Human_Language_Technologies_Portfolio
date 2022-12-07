@@ -61,3 +61,8 @@ Description: For this assignment I worked with a partner, Dmitrii Obideiko on th
 
 # Portfolio Chatbot
 Description: For this assignment I worked with Dmitrii Obideiko. The core functionality of the chatbot is to provide information regarding the weather in any city across the entire world (i.e. weather description, temperature, etc.). The chatbot utilizes the [OpenWeatherMap API](https://openweathermap.org/api) for information associated with the weather. The chatbot will ask the user to input a question to the chatbot that allows the chatbot to respond with the weather information associated with the city. For example, the user is allowed to ask a question (i.e. What's the weather in Plano? ) and the chatbot responds with 'It looks like:' followed by a weather description. There are 3 files [main.py](https://github.com/surajjanakiraman/Human_Language_Technologies_Portfolio/blob/main/Portfolio%20Chatbot/main.py), [Weatherinfo.py](https://github.com/surajjanakiraman/Human_Language_Technologies_Portfolio/blob/main/Portfolio%20Chatbot/WeatherInfo.py), and the [Weather Chatbot Report](https://github.com/surajjanakiraman/Human_Language_Technologies_Portfolio/blob/main/Portfolio%20Chatbot/Weather%20Forcast%20Chat%20Bot.docx)
+
+# Portfolio Assignment : Text Classification
+Description: Worked with a partner to perform text classification techniques (i.e. Sequential learning via Keras and RNN) on the 
+Women's E-Commerce Dataset. Please see the [Text Classification Assignment](https://github.com/surajjanakiraman/Human_Language_Technologies_Portfolio/blob/main/Text%20Classification%20Assignment/TextClassification.ipynb_-_Colaboratory.pdf)
+
